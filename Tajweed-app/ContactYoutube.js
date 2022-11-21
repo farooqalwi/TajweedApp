@@ -18,7 +18,7 @@ const ContactYoutube =({navigation})=> {
     const [password,setPassword]=useState("");
     const [agree, setAgree] = useState(false);
     const submit=()=>{
-    if (userName=="ahad" && password =="abdulahad18"){
+    if (userName=="alwi" && password =="313"){
         navigation.navigate("HOME-PAGE");
     } else{
         Alert.alert('Username and Password are not correct!');

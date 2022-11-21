@@ -1,0 +1,10 @@
+tokens of both sentences = done
+unsorted array in tokens = done
+no repeat in words
+position of words fixed = 
+
+index list of both sentences
+word match of both sentences
+missing word 
+
+length of string match 
